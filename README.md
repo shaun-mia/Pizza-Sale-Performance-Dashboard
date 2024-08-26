@@ -1,6 +1,3 @@
-Certainly! Here’s a complete `README.md` file including all the necessary information in one place:
-
-```markdown
 # Pizza Sales Performance Dashboard
 
 ## Project Overview
